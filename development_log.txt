@@ -10,3 +10,4 @@
 [2026-04-14 11:10:51] - implemented nutritionApi core functionality
 [2026-04-15 12:26:27] - implemented planApi core functionality
 [2026-04-15 14:59:56] - implemented profileApi core functionality
+[2026-04-15 16:37:16] - implemented progressApi and added workoutApi resources
