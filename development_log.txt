@@ -12,3 +12,4 @@
 [2026-04-15 14:59:56] - implemented profileApi core functionality
 [2026-04-15 16:37:16] - implemented progressApi and added workoutApi resources
 [2026-04-16 15:27:19] - implemented exerciseService core functionality
+[2026-04-16 15:45:34] - implemented utility helper bmiCalculator
