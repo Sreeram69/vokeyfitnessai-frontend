@@ -14,3 +14,4 @@
 [2026-04-16 15:27:19] - implemented exerciseService core functionality
 [2026-04-16 15:45:34] - implemented utility helper bmiCalculator
 [2026-04-17 10:44:26] - implemented utility helper calorieCalculator
+[2026-04-17 19:13:05] - implemented utility helper cn
