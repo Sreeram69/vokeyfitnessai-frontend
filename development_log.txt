@@ -19,3 +19,4 @@
 [2026-04-18 09:42:00] - implemented utility helper localStorage
 [2026-04-18 16:21:08] - implemented utility helper notifications
 [2026-04-18 17:45:32] - implemented utility helper toast
+[2026-04-18 18:53:39] - implemented authSchemas and added onboardingSchema resources
