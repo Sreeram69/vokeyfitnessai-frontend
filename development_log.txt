@@ -16,3 +16,4 @@
 [2026-04-17 10:44:26] - implemented utility helper calorieCalculator
 [2026-04-17 19:13:05] - implemented utility helper cn
 [2026-04-17 21:21:02] - implemented difficultyCalculator and added exerciseGifSelector resources
+[2026-04-18 09:42:00] - implemented utility helper localStorage
