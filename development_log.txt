@@ -25,3 +25,4 @@
 [2026-04-19 14:30:42] - configured favoritesSlice slice for redux state management
 [2026-04-19 14:57:30] - implemented profileSlice and added progressSlice resources
 [2026-04-19 17:54:08] - configured workoutSlice slice for redux state management
+[2026-04-19 20:00:40] - added express routes for AdminRoute endpoints
