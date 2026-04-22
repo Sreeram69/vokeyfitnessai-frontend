@@ -33,3 +33,4 @@
 [2026-04-21 14:34:03] - built CountdownWidget UI component with custom styles
 [2026-04-21 19:05:56] - built StopwatchWidget UI component with custom styles
 [2026-04-21 21:59:20] - built UI components: YearStreakCalendar and AddToWorkoutButton
+[2026-04-22 11:00:32] - built ExerciseCardV2 UI component with custom styles
