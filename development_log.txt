@@ -43,3 +43,4 @@
 [2026-04-25 12:05:51] - built UI components: TopbarV2 and DashboardSkeleton
 [2026-04-25 14:43:49] - built ExerciseCardSkeleton UI component with custom styles
 [2026-04-25 15:27:28] - built AnimatedButton UI component with custom styles
+[2026-04-25 16:52:15] - built Button UI component with custom styles
