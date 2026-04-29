@@ -56,3 +56,4 @@
 [2026-04-28 12:32:55] - built UI components: SkeletonLoader and StatCard
 [2026-04-28 14:34:36] - built ThemeToggle UI component with custom styles
 [2026-04-29 12:38:51] - built VokeyCoach UI component with custom styles
+[2026-04-29 15:27:07] - built ScrollToTop UI component with custom styles
