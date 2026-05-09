@@ -327,3 +327,4 @@
 [2026-05-09 13:11:07] - added PULL_REQUEST_TEMPLATE.md resource file
 [2026-05-09 13:21:51] - added bug_report.md resource file
 [2026-05-09 16:13:10] - added feature_request.md resource file
+[2026-05-09 20:36:31] - implemented settings and added fallback-exercise resources
