@@ -340,3 +340,4 @@
 [2026-05-12 09:06:29] - added static media asset back-04.gif
 [2026-05-12 21:06:21] - added static media asset back-05.gif
 [2026-05-13 13:54:34] - added static media asset back-06.jpg
+[2026-05-13 21:09:40] - implemented back-07 and added back-08 resources
