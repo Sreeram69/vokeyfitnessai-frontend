@@ -357,3 +357,4 @@
 [2026-05-17 13:28:50] - added README.txt resource file
 [2026-05-17 18:29:39] - added static media asset shoulder-02.gif
 [2026-05-17 20:13:37] - added static media asset shoulders-01.gif
+[2026-05-17 21:55:16] - implemented arms and added back resources
