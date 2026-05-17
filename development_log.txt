@@ -354,3 +354,4 @@
 [2026-05-16 17:02:58] - added static media asset legs-01.gif
 [2026-05-16 21:46:43] - added static media asset legs-02.gif
 [2026-05-17 10:55:51] - implemented legs-03 and added legs-04 resources
+[2026-05-17 13:28:50] - added README.txt resource file
