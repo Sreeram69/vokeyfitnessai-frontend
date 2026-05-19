@@ -361,3 +361,4 @@
 [2026-05-18 15:13:17] - added static media asset cardio.png
 [2026-05-18 16:36:28] - added static media asset chest.png
 [2026-05-18 18:40:33] - added static media asset default.png
+[2026-05-19 14:00:38] - implemented legs and added shoulders resources
