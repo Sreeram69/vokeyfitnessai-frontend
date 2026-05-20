@@ -366,3 +366,4 @@
 [2026-05-19 15:34:12] - implemented App core functionality
 [2026-05-19 16:13:16] - added index.css resource file
 [2026-05-20 14:12:05] - implemented main core functionality
+[2026-05-20 15:09:59] - implemented fadeIn and added hoverEffects resources
