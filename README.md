@@ -119,3 +119,5 @@ node scripts/migrateExercises.js
 1. **Deploy Database**: Set up a free sandbox cluster on [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and set up IP whitelist rules (`0.0.0.0/0`).
 2. **Deploy Backend API**: Create a Web Service on [Render](https://render.com/), link your GitHub backend repo, select Node environment, and paste your `.env` keys.
 3. **Deploy Frontend Client**: Create a static site project on [Vercel](https://vercel.com/), link your client repo, configure the build command as `npm run build`, output directory as `dist`, and set the `VITE_API_URL` environment key to your Render server link.
+
+
